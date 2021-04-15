@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px
+}
+
+.note{
+    font-size: 15px;
+    color:darkolivegreen;
+}
+
+.song_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+.div_peter_pan_song
+  {
+  	float: left;
+  }
+  .div_peter_pan_song_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #peter_pan_song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+  .div_harry_potter_theme_song
+  {
+  	float: right;	
+  }
+  .div_harry_potter_theme_song_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #harry_potter_theme_song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
